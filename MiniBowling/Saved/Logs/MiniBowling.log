@@ -1,0 +1,1062 @@
+﻿Log file open, 05/02/18 13:14:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MiniBowling
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1648318538) SRandInit(-1648318538).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.184404
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.02-17.14.33:963][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.02-17.14.33:963][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.02-17.14.33:977][  0]LogInit: Computer: RUDRAKSHA
+[2018.05.02-17.14.33:977][  0]LogInit: User: rudra
+[2018.05.02-17.14.33:977][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.02-17.14.33:977][  0]LogInit: High frequency timer resolution =2.742192 MHz
+[2018.05.02-17.14.33:977][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.05.02-17.14.33:977][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.02-17.14.33:977][  0]LogMemory: Process Physical Memory: 273.20 MB used, 273.20 MB peak
+[2018.05.02-17.14.33:977][  0]LogMemory: Process Virtual Memory: 271.98 MB used, 271.98 MB peak
+[2018.05.02-17.14.33:977][  0]LogMemory: Physical Memory: 4786.37 MB used,  11449.57 MB free, 16235.94 MB total
+[2018.05.02-17.14.33:977][  0]LogMemory: Virtual Memory: 684.59 MB used,  11449.57 MB free, 134217728.00 MB total
+[2018.05.02-17.14.34:909][  0]LogInit: Using OS detected language (en-US).
+[2018.05.02-17.14.34:909][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.02-17.14.34:911][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.02-17.14.35:332][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.02-17.14.35:751][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.02-17.14.35:841][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.05.02-17.14.35:841][  0]LogD3D11RHI:       4021/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.02-17.14.35:870][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.05.02-17.14.35:870][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.05.02-17.14.35:877][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.02-17.14.35:877][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.02-17.14.35:877][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.02-17.14.35:897][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.02-17.14.35:897][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.05.02-17.14.35:897][  0]LogWindows: EnumDisplayDevices:
+[2018.05.02-17.14.35:897][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.05.02-17.14.35:898][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.05.02-17.14.35:898][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.05.02-17.14.35:899][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.02-17.14.35:899][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.05.02-17.14.35:899][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.02-17.14.35:899][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.02-17.14.35:899][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.05.02-17.14.35:958][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.02-17.14.35:979][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.02-17.14.35:980][  0]LogShaderCompilers: Guid format shader working directory is -95 characters bigger than the processId version (../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Intermediate/Shaders/WorkingDirectory/10624/).
+[2018.05.02-17.14.35:980][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/rudra/AppData/Local/Temp/UnrealShaderWorkingDir/3BFA8C574658C26EB7329097215C91D2/'.
+[2018.05.02-17.14.35:980][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.02-17.14.37:097][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.02-17.14.37:157][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.02-17.14.37:216][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.02-17.14.37:274][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.02-17.14.37:336][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.02-17.14.37:395][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.02-17.14.37:455][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.02-17.14.37:514][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.02-17.14.37:568][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.02-17.14.37:625][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.02-17.14.37:683][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.02-17.14.37:742][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.02-17.14.37:805][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.02-17.14.37:863][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.02-17.14.37:980][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.02-17.14.37:980][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.02-17.14.38:038][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.02-17.14.38:084][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.02-17.14.38:185][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.02-17.14.38:246][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.02-17.14.38:303][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.02-17.14.38:361][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.02-17.14.38:418][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.02-17.14.38:475][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.02-17.14.38:475][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.02-17.14.39:081][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.02-17.14.39:155][  0]LogDerivedDataCache: Loaded boot cache 0.07s 92MB C:/Users/rudra/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.02-17.14.39:155][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/rudra/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.05.02-17.14.39:155][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.02-17.14.39:155][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.02-17.14.39:156][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.02-17.14.39:156][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.02-17.14.39:170][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.02-17.14.39:182][  0]LogDerivedDataCache: Using Local data cache path C:/Users/rudra/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.02-17.14.39:209][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.02-17.14.39:210][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.02-17.14.39:212][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.02-17.14.39:212][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.02-17.14.39:658][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.02-17.14.40:020][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.02-17.14.40:068][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.02-17.14.40:068][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.02-17.14.40:068][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.02-17.14.40:068][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.02-17.14.40:068][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.02-17.14.40:095][  0]LogNetVersion: MiniBowling , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 986542605)
+[2018.05.02-17.14.40:478][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2018.05.02-17.14.41:042][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.069760 seconds
+[2018.05.02-17.14.41:047][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.05.02-17.14.41:047][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.05.02-17.14.41:047][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.02-17.14.41:122][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.05.02-17.14.44:519][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.02-17.14.44:584][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.02-17.14.45:590][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.05.02-17.14.46:292][  0]SourceControl: Source control is disabled
+[2018.05.02-17.14.46:292][  0]SourceControl: Source control is disabled
+[2018.05.02-17.14.46:394][  0]SourceControl: Source control is disabled
+[2018.05.02-17.14.46:495][  0]SourceControl: Source control is disabled
+[2018.05.02-17.14.47:464][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.02-17.14.47:764][  0]LogOcInput: OculusInput pre-init called
+[2018.05.02-17.14.48:084][  0]LogEngine: Initializing Engine...
+[2018.05.02-17.14.48:086][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.02-17.14.48:294][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.02-17.14.48:294][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.02-17.14.48:443][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.02-17.14.48:458][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-17.14.48:628][  0]LogInit: FAudioDevice initialized.
+[2018.05.02-17.14.48:718][  0]LogDerivedDataCache: Saved boot cache 0.09s 79MB C:/Users/rudra/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.05.02-17.14.48:727][  0]LogInit: Texture streaming: Enabled
+[2018.05.02-17.14.48:881][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.02-17.14.49:037][  0]LogInit: Transaction tracking system initialized
+[2018.05.02-17.14.49:441][  0]BlueprintLog: New page: Editor Load
+[2018.05.02-17.14.50:525][  0]LocalizationService: Localization service is disabled
+[2018.05.02-17.14.51:366][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.05.02-17.14.51:366][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.05.02-17.14.51:366][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.05.02-17.14.51:652][  0]LogConsoleResponse: Display: 
+[2018.05.02-17.14.51:869][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.02-17.14.51:869][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.02-17.14.51:869][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.02-17.14.52:375][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/' took 0.02s
+[2018.05.02-17.14.53:692][  0]SourceControl: Source control is disabled
+[2018.05.02-17.14.53:692][  0]LightingResults: New page: Lighting Build
+[2018.05.02-17.14.53:740][  0]MapCheck: New page: Map Check
+[2018.05.02-17.14.53:740][  0]LightingResults: New page: Lighting Build
+[2018.05.02-17.14.53:895][  0]LogAIModule: Creating AISystem for world StartupMap
+[2018.05.02-17.14.53:903][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.02-17.14.53:914][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.02-17.14.53:972][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.766ms to complete.
+[2018.05.02-17.14.53:972][  0]LogFileHelpers: Loading map 'StartupMap' took 0.280
+[2018.05.02-17.14.54:164][  0]LogCollectionManager: Loaded 0 collections in 0.002900 seconds
+[2018.05.02-17.14.54:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/Collections/' took 0.01s
+[2018.05.02-17.14.54:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/Developers/rudra/Collections/' took 0.01s
+[2018.05.02-17.14.54:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/Collections/' took 0.01s
+[2018.05.02-17.14.54:367][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.02-17.14.54:391][  0]LogContentBrowser: Native class hierarchy populated in 0.0234 seconds. Added 2363 classes and 519 folders.
+[2018.05.02-17.14.54:601][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.02-17.14.54:638][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.02-17.14.54:688][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.05.02-17.14.54:704][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.02-17.14.54:708][  0]LogSlate: Took 0.000329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.02-17.14.54:715][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.02-17.14.54:867][  0]LogRenderer: Reallocating scene render targets to support 1104x600 Format 26 NumSamples 1 (Frame:1).
+[2018.05.02-17.14.55:186][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.05.02-17.14.55:186][  0]LogLoad: (Engine Initialization) Total time: 24.00 seconds
+[2018.05.02-17.14.55:186][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.02-17.14.55:186][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.05.02-17.14.55:186][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.05.02-17.14.55:571][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.02-17.14.55:700][  0]LogSlate: Took 0.000507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.02-17.14.55:860][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/' took 0.32s
+[2018.05.02-17.14.56:552][  3]LogSlate: Took 0.000598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.02-17.14.56:881][  4]LogAssetRegistry: Asset discovery search completed in 16.4256 seconds
+[2018.05.02-17.14.56:887][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.02-17.14.56:887][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000146 seconds (updated 0 objects)
+[2018.05.02-17.15.04:705][162]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.05.02-17.15.05:576][162]LogSlate: Took 0.000306 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.02-17.15.05:965][162]LogAIModule: Creating AISystem for world GameMap1
+[2018.05.02-17.15.06:012][162]LightingResults: New page: Lighting Build
+[2018.05.02-17.15.06:013][162]LoadErrors: New page: Loading map: GameMap1.umap
+[2018.05.02-17.15.06:014][162]MapCheck: New page: Map Check
+[2018.05.02-17.15.06:014][162]LightingResults: New page: Lighting Build
+[2018.05.02-17.15.06:037][162]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.02-17.15.06:122][162]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.02-17.15.06:335][162]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 212.88ms to complete.
+[2018.05.02-17.15.06:337][162]LogFileHelpers: Loading map 'GameMap1' took 0.326
+[2018.05.02-17.15.12:020][463]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.05.02-17.15.12:020][463]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.05.02-17.15.12:020][463]LogStaticMesh: Building static mesh scene_fbx_22_sand_bag...
+[2018.05.02-17.15.12:027][463]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 512X512)
+[2018.05.02-17.15.12:027][463]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.05.02-17.15.12:027][463]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X128)
+[2018.05.02-17.15.12:027][463]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.05.02-17.15.12:027][463]LogStaticMesh: Built static mesh [0.01s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_sand_bag.scene_fbx_22_sand_bag
+[2018.05.02-17.15.12:029][463]LogStaticMesh: Building static mesh scene_fbx_22_plant...
+[2018.05.02-17.15.12:079][463]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.05.02-17.15.12:079][463]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2018.05.02-17.15.12:079][463]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.05.02-17.15.12:079][463]LogStaticMesh: Built static mesh [0.05s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_plant.scene_fbx_22_plant
+[2018.05.02-17.15.12:080][463]LogStaticMesh: Building static mesh scene_fbx_22_explosive_barrel_piece_2...
+[2018.05.02-17.15.12:092][463]LogStaticMesh: Built static mesh [0.01s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_explosive_barrel_piece_2.scene_fbx_22_explosive_barrel_piece_2
+[2018.05.02-17.15.12:093][463]LogStaticMesh: Building static mesh scene_fbx_22_explosive_barrel_piece_3...
+[2018.05.02-17.15.12:101][463]LogStaticMesh: Built static mesh [0.01s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_explosive_barrel_piece_3.scene_fbx_22_explosive_barrel_piece_3
+[2018.05.02-17.15.12:102][463]LogStaticMesh: Building static mesh scene_fbx_22_fence...
+[2018.05.02-17.15.12:112][463]LogStaticMesh: Built static mesh [0.01s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_fence.scene_fbx_22_fence
+[2018.05.02-17.15.12:113][463]LogStaticMesh: Building static mesh scene_fbx_22_explosive_barrel_piece_8...
+[2018.05.02-17.15.12:146][463]LogStaticMesh: Built static mesh [0.03s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_explosive_barrel_piece_8.scene_fbx_22_explosive_barrel_piece_8
+[2018.05.02-17.15.12:152][463]LogStaticMesh: Building static mesh scene_fbx_22_bare_tree...
+[2018.05.02-17.15.12:183][463]LogStaticMesh: Built static mesh [0.03s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_bare_tree.scene_fbx_22_bare_tree
+[2018.05.02-17.15.12:184][463]LogStaticMesh: Building static mesh scene_fbx_22_explosive_barrel1...
+[2018.05.02-17.15.12:195][463]LogStaticMesh: Built static mesh [0.01s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_explosive_barrel1.scene_fbx_22_explosive_barrel1
+[2018.05.02-17.15.12:197][463]LogStaticMesh: Building static mesh scene_fbx_22_explosive_barrel_piece_1...
+[2018.05.02-17.15.12:211][463]LogStaticMesh: Built static mesh [0.01s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_explosive_barrel_piece_1.scene_fbx_22_explosive_barrel_piece_1
+[2018.05.02-17.15.12:212][463]LogStaticMesh: Building static mesh scene_fbx_22_grass_1...
+[2018.05.02-17.15.12:226][463]LogStaticMesh: Built static mesh [0.01s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_grass_1.scene_fbx_22_grass_1
+[2018.05.02-17.15.12:227][463]LogStaticMesh: Building static mesh scene_fbx_22_grass_2...
+[2018.05.02-17.15.12:249][463]LogStaticMesh: Built static mesh [0.02s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_grass_2.scene_fbx_22_grass_2
+[2018.05.02-17.15.12:251][463]LogStaticMesh: Building static mesh scene_fbx_22_grass_3...
+[2018.05.02-17.15.12:273][463]LogStaticMesh: Built static mesh [0.02s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_grass_3.scene_fbx_22_grass_3
+[2018.05.02-17.15.12:274][463]LogStaticMesh: Building static mesh scene_fbx_22_grass_5...
+[2018.05.02-17.15.12:287][463]LogStaticMesh: Built static mesh [0.01s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_grass_5.scene_fbx_22_grass_5
+[2018.05.02-17.15.12:288][463]LogStaticMesh: Building static mesh scene_fbx_22_pCube1...
+[2018.05.02-17.15.12:289][463]LogStaticMesh: Built static mesh [0.00s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_pCube1.scene_fbx_22_pCube1
+[2018.05.02-17.15.12:290][463]LogStaticMesh: Building static mesh scene_fbx_22_pCube3...
+[2018.05.02-17.15.12:291][463]LogStaticMesh: Built static mesh [0.00s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_pCube3.scene_fbx_22_pCube3
+[2018.05.02-17.15.12:291][463]LogStaticMesh: Building static mesh scene_fbx_22_stone_8...
+[2018.05.02-17.15.12:296][463]LogStaticMesh: Built static mesh [0.00s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_stone_8.scene_fbx_22_stone_8
+[2018.05.02-17.15.12:297][463]LogStaticMesh: Building static mesh scene_fbx_22_target...
+[2018.05.02-17.15.12:305][463]LogStaticMesh: Built static mesh [0.01s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_target.scene_fbx_22_target
+[2018.05.02-17.15.12:306][463]LogStaticMesh: Building static mesh scene_fbx_22_wooden_stick1...
+[2018.05.02-17.15.12:314][463]LogStaticMesh: Built static mesh [0.01s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_wooden_stick1.scene_fbx_22_wooden_stick1
+[2018.05.02-17.15.12:315][463]LogStaticMesh: Building static mesh scene_fbx_22_wooden_stick2...
+[2018.05.02-17.15.12:324][463]LogStaticMesh: Built static mesh [0.01s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_wooden_stick2.scene_fbx_22_wooden_stick2
+[2018.05.02-17.15.12:324][463]LogStaticMesh: Building static mesh scene_fbx_22_wooden_stick3...
+[2018.05.02-17.15.12:332][463]LogStaticMesh: Built static mesh [0.01s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_wooden_stick3.scene_fbx_22_wooden_stick3
+[2018.05.02-17.15.12:333][463]LogStaticMesh: Building static mesh scene_fbx_22_wooden_stick...
+[2018.05.02-17.15.12:339][463]LogStaticMesh: Built static mesh [0.01s] /Game/VirtualRealityBP/Blueprints/LevelAssets/theScene2/scene_fbx_22_wooden_stick.scene_fbx_22_wooden_stick
+[2018.05.02-17.15.12:346][463]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.05.02-17.15.12:414][463]LogAIModule: Creating AISystem for world GameMap3
+[2018.05.02-17.15.12:435][463]LightingResults: New page: Lighting Build
+[2018.05.02-17.15.12:436][463]LoadErrors: New page: Loading map: GameMap3.umap
+[2018.05.02-17.15.12:437][463]MapCheck: New page: Map Check
+[2018.05.02-17.15.12:437][463]LightingResults: New page: Lighting Build
+[2018.05.02-17.15.12:455][463]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.02-17.15.12:523][463]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.02-17.15.12:612][463]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.128ms to complete.
+[2018.05.02-17.15.12:612][463]LogFileHelpers: Loading map 'GameMap3' took 0.178
+[2018.05.02-17.15.15:193][614]LogEditorViewport: Clicking on Actor (LMB): MotionControllerPawn_C (VRPawn)
+[2018.05.02-17.15.15:867][649]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.05.02-17.15.20:960][908]LogSavePackage: Save=260.81ms
+[2018.05.02-17.15.20:960][908]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap36561C79F433E4B46C31F249B0BB2C180.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap'
+[2018.05.02-17.15.20:965][908]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap
+[2018.05.02-17.15.21:495][908]LogSavePackage: Save=405.12ms
+[2018.05.02-17.15.21:495][908]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap3_BuiltDataF33137F84744B07B6949F89996A2D248.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset'
+[2018.05.02-17.15.21:498][908]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset
+[2018.05.02-17.15.32:381][477]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.05.02-17.15.33:745][477]LogSlate: Took 0.000339 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.02-17.15.34:223][478]LogSlate: Took 0.000257 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.02-17.15.39:935][607]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.02-17.15.40:009][608]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MiniBowling
+[2018.05.02-17.15.40:009][608]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.02-17.15.40:009][608]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.05.02-17.15.40:009][608]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.02-17.15.40:009][608]LogTemp: BranchPath = RUDRAKSHA/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = RUDRAKSHA/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.05.02-17.15.40:009][608]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\rudra\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.02-17.17.21:510][394]LogSavePackage: Save=363.15ms
+[2018.05.02-17.17.21:510][394]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn5489AA0947B4EE564F892B91CF7FC0E4.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.17.21:514][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.17.21:934][412]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.02-17.17.23:649][433]LogSavePackage: Save=360.27ms
+[2018.05.02-17.17.23:649][433]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn6C25F0094CD479A2EF0737B269ECE008.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.17.23:651][433]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.21.44:184][450]BlueprintLog: New page: Compile BP_Ball_Marble
+[2018.05.02-17.21.55:236][879]LogSavePackage: Save=88.10ms
+[2018.05.02-17.21.55:236][879]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Marble872F346E4D51D3444D09ABAB0A2A1484.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Marble.uasset'
+[2018.05.02-17.21.55:240][879]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Marble.uasset
+[2018.05.02-17.22.01:022][117]LogSavePackage: Save=78.20ms
+[2018.05.02-17.22.01:022][117]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Marble01811F054004490BC5CB84B98B04D17C.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Marble.uasset'
+[2018.05.02-17.22.01:024][117]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Marble.uasset
+[2018.05.02-17.22.04:801][282]LogSavePackage: Save=96.85ms
+[2018.05.02-17.22.04:801][282]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Marble3C5E521A421B947377391A86E3C5D1F3.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Marble.uasset'
+[2018.05.02-17.22.04:805][282]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Marble.uasset
+[2018.05.02-17.22.05:732][318]BlueprintLog: New page: Compile BP_Ball_Marble
+[2018.05.02-17.22.06:527][333]LogSavePackage: Save=50.61ms
+[2018.05.02-17.22.06:527][333]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Marble7002D0CF406BBF2F26B61C8B4AF8BCF6.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Marble.uasset'
+[2018.05.02-17.22.06:529][333]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Marble.uasset
+[2018.05.02-17.22.36:742][647]LogSavePackage: Save=102.26ms
+[2018.05.02-17.22.36:743][647]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Plastic468DC1CB4BB97A241C1817ADD909F504.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Plastic.uasset'
+[2018.05.02-17.22.36:748][647]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Plastic.uasset
+[2018.05.02-17.22.37:261][665]BlueprintLog: New page: Compile BP_Ball_Plastic
+[2018.05.02-17.22.37:818][669]LogSavePackage: Save=53.83ms
+[2018.05.02-17.22.37:818][669]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Plastic9EAC2BC54FFA7B25C915EA9F292530DB.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Plastic.uasset'
+[2018.05.02-17.22.37:819][669]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Plastic.uasset
+[2018.05.02-17.22.55:900][424]LogSavePackage: Save=53.88ms
+[2018.05.02-17.22.55:900][424]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_RubberE52F27A8458E24F4F45F42A4BE44C147.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset'
+[2018.05.02-17.22.55:904][424]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset
+[2018.05.02-17.22.56:185][434]BlueprintLog: New page: Compile BP_Ball_Rubber
+[2018.05.02-17.22.57:548][479]BlueprintLog: New page: Compile BP_Ball_Plastic
+[2018.05.02-17.22.58:064][479]LogSavePackage: Save=51.17ms
+[2018.05.02-17.22.58:064][479]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_PlasticE7EED38942C2F4E362CF518D5744E4C1.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Plastic.uasset'
+[2018.05.02-17.22.58:068][479]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Plastic.uasset
+[2018.05.02-17.23.07:599][901]LogSavePackage: Save=68.68ms
+[2018.05.02-17.23.07:599][901]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Rubber49C66A6D4451A5A19AFC34A8F39F0F1E.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset'
+[2018.05.02-17.23.07:603][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset
+[2018.05.02-17.23.08:713][938]LogSavePackage: Save=67.15ms
+[2018.05.02-17.23.08:713][938]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Rubber43AD441049345E80B6BF69BAD2A95367.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset'
+[2018.05.02-17.23.08:716][938]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset
+[2018.05.02-17.23.09:462][965]BlueprintLog: New page: Compile BP_Ball_Rubber
+[2018.05.02-17.23.10:148][973]LogSavePackage: Save=53.25ms
+[2018.05.02-17.23.10:149][973]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_RubberC412EA9C432BB7649B8ADB8078DC98F5.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset'
+[2018.05.02-17.23.10:151][973]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset
+[2018.05.02-17.23.13:412][107]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.02-17.23.15:037][140]LogSavePackage: Save=306.13ms
+[2018.05.02-17.23.15:037][140]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawnBB038EA544E53A99CBB72181A66071E6.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.23.15:041][140]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.23.53:309][914]LogSavePackage: Save=327.27ms
+[2018.05.02-17.23.53:309][914]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawnC74AF6514D20B971C49FAA94B019E5D1.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.23.53:313][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.24.08:074][604]LogSavePackage: Save=310.68ms
+[2018.05.02-17.24.08:074][604]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawnC1A0DD4A4A9B1258570460B5F0EE6D88.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.24.08:078][604]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.24.17:625][ 18]LogSavePackage: Save=317.64ms
+[2018.05.02-17.24.17:625][ 18]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn18050AAB4739174E63056D95AD0EBE46.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.24.17:629][ 18]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.24.21:896][195]LogSavePackage: Save=350.40ms
+[2018.05.02-17.24.21:896][195]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn78146AD345729F232384FEAD2EECD2CD.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.24.21:900][195]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.24.23:200][255]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.02-17.24.24:193][256]LogSavePackage: Save=309.01ms
+[2018.05.02-17.24.24:193][256]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn0ABC5D114A6B036E4A6C1A9FF01F640D.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.24.24:195][256]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.24.50:080][452]LogSavePackage: Save=114.09ms
+[2018.05.02-17.24.50:080][452]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Marble99F9D2CA4EF0A5847C58F48ADDDCBB48.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Marble.uasset'
+[2018.05.02-17.24.50:085][452]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Marble.uasset
+[2018.05.02-17.24.53:702][617]BlueprintLog: New page: Compile BP_Ball_Marble
+[2018.05.02-17.25.07:147][247]LogSavePackage: Save=205.57ms
+[2018.05.02-17.25.07:147][247]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_PlasticDDA77411438C9CDEB594A88BDADA2107.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Plastic.uasset'
+[2018.05.02-17.25.07:159][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Plastic.uasset
+[2018.05.02-17.25.09:136][338]BlueprintLog: New page: Compile BP_Ball_Plastic
+[2018.05.02-17.25.09:811][343]LogSavePackage: Save=52.67ms
+[2018.05.02-17.25.09:811][343]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Plastic306A08704885F9B6DE70A696766382E1.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Plastic.uasset'
+[2018.05.02-17.25.09:815][343]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Plastic.uasset
+[2018.05.02-17.26.17:010][611]LogSavePackage: Save=267.53ms
+[2018.05.02-17.26.17:010][611]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap3_Auto1C0548CD348B89B8A81C7B2BE7F9921AB.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/Autosaves/Game/VirtualRealityBP/Maps/GameMap3_Auto1.umap'
+[2018.05.02-17.26.17:012][611]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/Autosaves/Game/VirtualRealityBP/Maps/GameMap3_Auto1.umap
+[2018.05.02-17.26.17:014][611]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/GameMap3' took 0.369
+[2018.05.02-17.26.17:014][611]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.369
+[2018.05.02-17.26.17:016][611]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/BP_Ball_Rubber] ([1] browsable assets)...
+[2018.05.02-17.26.17:027][611]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VirtualRealityBP/Blueprints/BP_Ball_Rubber.BP_Ball_Rubber]
+[2018.05.02-17.26.17:027][611]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/BP_Ball_Rubber]
+[2018.05.02-17.26.17:099][611]LogSavePackage: Save=54.04ms
+[2018.05.02-17.26.17:099][611]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Rubber_Auto1F86B97A342AFDCD8B2BFAD9936A8C8F5.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_Ball_Rubber_Auto1.uasset'
+[2018.05.02-17.26.17:101][611]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/BP_Ball_Rubber_Auto1.uasset
+[2018.05.02-17.26.17:101][611]LogFileHelpers: Auto-saving content packages took 0.086
+[2018.05.02-17.26.21:035][799]LogSavePackage: Save=53.32ms
+[2018.05.02-17.26.21:035][799]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Rubber4C610D2A46A6897326B4A39117E316DC.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset'
+[2018.05.02-17.26.21:042][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset
+[2018.05.02-17.26.23:150][886]BlueprintLog: New page: Compile BP_Ball_Rubber
+[2018.05.02-17.26.24:048][897]LogSavePackage: Save=53.66ms
+[2018.05.02-17.26.24:048][897]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Rubber8848A46447403EF8E6D02483EB1F2A35.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset'
+[2018.05.02-17.26.24:050][897]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset
+[2018.05.02-17.26.57:747][410]LogSavePackage: Save=364.01ms
+[2018.05.02-17.26.57:747][410]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn9FB53843441448A6ED03B4A036D12BD9.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.26.57:756][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.27.15:517][233]LogSavePackage: Save=325.37ms
+[2018.05.02-17.27.15:517][233]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawnCA7F6A6F4458368C271F698EBB6350C6.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.27.15:523][233]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.28.00:803][314]LogSavePackage: Save=326.95ms
+[2018.05.02-17.28.00:803][314]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawnE3CF6E17465EA97156DCA1AC1407E176.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.28.00:808][314]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.28.44:411][399]LogSavePackage: Save=353.51ms
+[2018.05.02-17.28.44:411][399]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn6F3D0F0049059FECE29E318DB9F0E799.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.28.44:415][399]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.29.03:019][247]LogSavePackage: Save=335.05ms
+[2018.05.02-17.29.03:019][247]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn8C2FDE77416F6C0C73C9FCB1E1E38227.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.29.03:023][247]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.30.49:859][183]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.02-17.31.26:019][787]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2018.05.02-17.31.26:403][804]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.05.02-17.31.28:204][906]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_Rubber_C (BP_Ball_Rubber)
+[2018.05.02-17.31.59:831][343]LogSavePackage: Save=485.24ms
+[2018.05.02-17.31.59:831][343]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawnC325AC1841AB1E927265BB902BF4EAA9.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.31.59:836][343]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.32.16:814][962]LogSavePackage: Save=463.68ms
+[2018.05.02-17.32.16:815][962]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn8D2522884EB28F708B34AC92CDC3EF70.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.32.16:819][962]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.32.26:154][340]LogSavePackage: Save=396.85ms
+[2018.05.02-17.32.26:155][340]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn4B9329874E016F6ED93D6DA586758AE0.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.32.26:162][340]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.32.53:732][578]LogSavePackage: Save=421.75ms
+[2018.05.02-17.32.53:732][578]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn2E9A21324B2E5FA4BC99F98C2CC9B91D.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.32.53:736][578]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.33.37:596][233]LogSavePackage: Save=456.14ms
+[2018.05.02-17.33.37:596][233]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawnC25B63BD482D2875DD0B4480BF05FEBB.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.33.37:600][233]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.34.04:190][274]LogSavePackage: Save=373.04ms
+[2018.05.02-17.34.04:190][274]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawnA189EA9D4A59961464D5518FADA0E916.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.34.04:194][274]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.34.16:975][752]LogSavePackage: Save=340.41ms
+[2018.05.02-17.34.16:975][752]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn9E29FCFC4FF2D91B6BCDC3B721D9F096.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.34.16:979][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.34.51:732][280]LogSavePackage: Save=418.14ms
+[2018.05.02-17.34.51:733][280]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn414697D5492701BA65CB549D2E7FD1C2.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.34.51:736][280]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.35.03:800][958]LogSavePackage: Save=420.39ms
+[2018.05.02-17.35.03:800][958]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn8E7A16394CE0793BB4345A9C9B6A34E7.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.35.03:804][958]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.35.32:585][219]LogSavePackage: Save=398.97ms
+[2018.05.02-17.35.32:586][219]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawnC9F558FF400275F4EC9D2CB5C37CB49A.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.35.32:597][219]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.35.45:331][723]LogSavePackage: Save=386.10ms
+[2018.05.02-17.35.45:331][723]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn9122E90D4A2A276B3A9BA697E3AB08C8.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.35.45:335][723]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.36.08:165][805]LogSavePackage: Save=408.08ms
+[2018.05.02-17.36.08:165][805]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawnAA37345E4B9D55667AC0C3AC0953E138.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.36.08:168][805]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.36.21:275][367]LogSavePackage: Save=369.55ms
+[2018.05.02-17.36.21:275][367]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn727F582545F571040FD56BA8FCC5C8AF.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.36.21:278][367]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.36.33:359][808]LogSavePackage: Save=371.34ms
+[2018.05.02-17.36.33:359][808]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn38E6A72445F8975F52DE768D42F7E1BD.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.36.33:372][808]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.36.35:119][855]LogSavePackage: Save=486.60ms
+[2018.05.02-17.36.35:119][855]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn236D1E8544AD5D5907ADA09B1E15E530.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.36.35:121][855]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.36.35:571][878]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.02-17.36.45:320][413]BlueprintLog: New page: Compile BP_Ball_Marble
+[2018.05.02-17.36.46:115][413]LogSavePackage: Save=104.62ms
+[2018.05.02-17.36.46:115][413]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Marble090A85C04440CAF1D1B873B537DACB36.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Marble.uasset'
+[2018.05.02-17.36.46:119][413]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Marble.uasset
+[2018.05.02-17.36.53:223][824]BlueprintLog: New page: Compile BP_Ball_Plastic
+[2018.05.02-17.36.54:421][850]LogSavePackage: Save=78.66ms
+[2018.05.02-17.36.54:421][850]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_PlasticDA41F57F44C3FDA53B7C34970EED69B8.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Plastic.uasset'
+[2018.05.02-17.36.54:425][850]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Plastic.uasset
+[2018.05.02-17.37.00:094][186]BlueprintLog: New page: Compile BP_Ball_Rubber
+[2018.05.02-17.37.01:055][206]LogSavePackage: Save=57.46ms
+[2018.05.02-17.37.01:055][206]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Rubber969956B44FF7CA51AE4DAB8B8E3C9F56.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset'
+[2018.05.02-17.37.01:060][206]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset
+[2018.05.02-17.37.01:948][242]LogSavePackage: Save=230.87ms
+[2018.05.02-17.37.01:948][242]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap3A18859564181BA3CB6B93E9554C84C54.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap'
+[2018.05.02-17.37.01:953][242]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap
+[2018.05.02-17.37.02:137][242]LogSavePackage: Save=95.82ms
+[2018.05.02-17.37.02:137][242]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap3_BuiltDataB6ABBF054212AD1C77889C9147913BF1.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset'
+[2018.05.02-17.37.02:139][242]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset
+[2018.05.02-17.37.05:254][368]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.02-17.37.05:318][369]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.MiniBowling
+[2018.05.02-17.37.05:318][369]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.02-17.37.05:318][369]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.05.02-17.37.05:318][369]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.05.02-17.37.05:318][369]LogTemp: BranchPath = RUDRAKSHA/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = RUDRAKSHA/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.05.02-17.37.05:373][370]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\rudra\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.02-17.37.28:585][629]LogSavePackage: Save=235.48ms
+[2018.05.02-17.37.28:585][629]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap3E25794A8418D45BB9E94C29CE1ECFB95.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap'
+[2018.05.02-17.37.28:589][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap
+[2018.05.02-17.37.28:749][629]LogSavePackage: Save=98.38ms
+[2018.05.02-17.37.28:749][629]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap3_BuiltDataE1222A7F4D0CEB4840FD1FB891EA93AC.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset'
+[2018.05.02-17.37.28:751][629]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset
+[2018.05.02-17.37.29:862][695]BlueprintLog: New page: Compile BP_Ball_Rubber
+[2018.05.02-17.37.30:467][695]LogSavePackage: Save=55.43ms
+[2018.05.02-17.37.30:467][695]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Rubber9D583AC54A505242FB16D980418F3082.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset'
+[2018.05.02-17.37.30:469][695]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset
+[2018.05.02-17.37.33:275][854]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.02-17.37.33:360][854]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.02-17.37.33:454][854]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.02-17.37.34:430][886]LogSavePackage: Save=276.90ms
+[2018.05.02-17.37.34:430][886]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap349C73A5443349F034E7BB48E790643D4.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap'
+[2018.05.02-17.37.34:434][886]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap
+[2018.05.02-17.37.34:595][886]LogSavePackage: Save=100.88ms
+[2018.05.02-17.37.34:595][886]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap3_BuiltData48A2F14B4B2C806C3C6CD1A0B86B1AD9.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset'
+[2018.05.02-17.37.34:598][886]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset
+[2018.05.02-17.37.38:151][ 82]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3' with GeneratedClass '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3'
+[2018.05.02-17.37.38:151][ 82]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-17.37.38:152][ 82]PIE: New page: PIE session: GameMap3 (May 2, 2018, 9:37:38 AM)
+[2018.05.02-17.37.38:152][ 82]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_GameMap3
+[2018.05.02-17.37.38:159][ 82]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006905s)
+[2018.05.02-17.37.38:159][ 82]LogAIModule: Creating AISystem for world GameMap3
+[2018.05.02-17.37.38:160][ 82]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2018.05.02-17.37.38:160][ 82]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/GameMap3.GameMap3 to /Game/VirtualRealityBP/Maps/UEDPIE_0_GameMap3.GameMap3 (0.008036s)
+[2018.05.02-17.37.38:178][ 82]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-17.37.38:191][ 82]LogInit: FAudioDevice initialized.
+[2018.05.02-17.37.38:237][ 82]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.05.02-17.37.38:237][ 82]LogLoad: Game class is 'GameModeBase'
+[2018.05.02-17.37.38:243][ 82]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_GameMap3.GameMap3 up for play (max tick rate 60) at 2018.05.02-13.37.38
+[2018.05.02-17.37.38:245][ 82]LogWorld: Bringing up level for play took: 0.005157
+[2018.05.02-17.37.38:317][ 82]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.05.02-17.37.38:321][ 82]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_GameMap3 0.217
+[2018.05.02-17.37.38:321][ 82]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3' with GeneratedClass '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3'
+[2018.05.02-17.38.06:140][738]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3' with GeneratedClass '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3'
+[2018.05.02-17.38.06:183][738]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3' with GeneratedClass '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3'
+[2018.05.02-17.38.23:456][589]LogSavePackage: Save=505.84ms
+[2018.05.02-17.38.23:456][589]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawnC7BC5C334839D4F2D7F4C3B52AC55E4B.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.38.23:458][589]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.38.27:778][783]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-17.38.27:809][783]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3' with GeneratedClass '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3'
+[2018.05.02-17.38.27:809][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-17.38.27:809][783]PIE: New page: PIE session: GameMap3 (May 2, 2018, 9:38:27 AM)
+[2018.05.02-17.38.27:809][783]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_GameMap3
+[2018.05.02-17.38.27:818][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008747s)
+[2018.05.02-17.38.27:819][783]LogAIModule: Creating AISystem for world GameMap3
+[2018.05.02-17.38.27:819][783]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2018.05.02-17.38.27:819][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/GameMap3.GameMap3 to /Game/VirtualRealityBP/Maps/UEDPIE_0_GameMap3.GameMap3 (0.009766s)
+[2018.05.02-17.38.27:839][783]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-17.38.27:852][783]LogInit: FAudioDevice initialized.
+[2018.05.02-17.38.27:884][783]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.05.02-17.38.27:884][783]LogLoad: Game class is 'GameModeBase'
+[2018.05.02-17.38.27:887][783]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_GameMap3.GameMap3 up for play (max tick rate 60) at 2018.05.02-13.38.27
+[2018.05.02-17.38.27:887][783]LogWorld: Bringing up level for play took: 0.001913
+[2018.05.02-17.38.27:889][783]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_GameMap3 -0.214
+[2018.05.02-17.38.27:890][783]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3' with GeneratedClass '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3'
+[2018.05.02-17.38.45:113][749]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3' with GeneratedClass '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3'
+[2018.05.02-17.38.45:197][749]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3' with GeneratedClass '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3'
+[2018.05.02-17.38.53:588][973]LogSavePackage: Save=678.64ms
+[2018.05.02-17.38.53:588][973]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawnFA7FD0E44E8EA3F0D7577D81FBD3AD53.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.38.53:590][973]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.40.47:661][363]LogSavePackage: Save=674.55ms
+[2018.05.02-17.40.47:661][363]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn9AB8110C45894A27D4E94FBCB2DFF3B5.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.40.47:665][363]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.40.48:875][398]LogSavePackage: Save=210.65ms
+[2018.05.02-17.40.48:875][398]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap3DE6067834F6F5EE6A9A397868956949A.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap'
+[2018.05.02-17.40.48:879][398]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap
+[2018.05.02-17.40.49:086][398]LogSavePackage: Save=116.29ms
+[2018.05.02-17.40.49:086][398]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap3_BuiltDataE7CBC48444B8E0FB5E8B779B397048F7.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset'
+[2018.05.02-17.40.49:087][398]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset
+[2018.05.02-17.40.49:963][436]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.02-17.40.50:131][436]LogBlueprint: Warning: [Compiler MotionControllerPawn] Sequence  has no valid output
+[2018.05.02-17.40.50:409][436]LogBlueprint: Warning: [Compiler MotionControllerPawn] [1579.22] Compile of MotionControllerPawn successful, but with 1 Warning(s) [in 445 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.05.02-17.40.51:149][443]LogSavePackage: Save=407.01ms
+[2018.05.02-17.40.51:149][443]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn83C6684C484FEDB7ED6BAE881EE4D8B2.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.40.51:151][443]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.40.55:695][618]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.02-17.40.55:910][618]LogBlueprint: Warning: [Compiler MotionControllerPawn] Sequence  has no valid output
+[2018.05.02-17.40.56:191][618]LogBlueprint: Warning: [Compiler MotionControllerPawn] [1585.00] Compile of MotionControllerPawn successful, but with 1 Warning(s) [in 495 ms] (/Game/VirtualRealityBP/Blueprints/MotionControllerPawn.MotionControllerPawn)
+[2018.05.02-17.40.59:052][732]BlueprintLog: New page: Compile MotionControllerPawn
+[2018.05.02-17.41.00:367][747]LogSavePackage: Save=445.59ms
+[2018.05.02-17.41.00:367][747]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/MotionControllerPawn77F8BBDD476F5B02A1E240AAC000E1E6.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset'
+[2018.05.02-17.41.00:371][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/MotionControllerPawn.uasset
+[2018.05.02-17.41.10:334][186]BlueprintLog: New page: Compile BP_Ball_Marble
+[2018.05.02-17.41.11:587][208]LogSavePackage: Save=66.57ms
+[2018.05.02-17.41.11:587][208]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Marble61D1350145E93822B4CCD09710B6F55D.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Marble.uasset'
+[2018.05.02-17.41.11:599][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Marble.uasset
+[2018.05.02-17.41.17:688][482]BlueprintLog: New page: Compile BP_Ball_Plastic
+[2018.05.02-17.41.18:463][492]LogSavePackage: Save=53.45ms
+[2018.05.02-17.41.18:464][492]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_PlasticA21206D940855B7DE86B98AF0805F2A9.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Plastic.uasset'
+[2018.05.02-17.41.18:467][492]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Plastic.uasset
+[2018.05.02-17.41.25:114][797]BlueprintLog: New page: Compile BP_Ball_Rubber
+[2018.05.02-17.41.25:900][803]LogSavePackage: Save=52.86ms
+[2018.05.02-17.41.25:900][803]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/BP_Ball_Rubber548FC3A6458BC6099AF59D80A3EBA642.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset'
+[2018.05.02-17.41.25:905][803]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Blueprints/BP_Ball_Rubber.uasset
+[2018.05.02-17.41.27:146][849]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.02-17.41.27:241][849]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.05.02-17.41.28:380][874]LogSavePackage: Save=422.64ms
+[2018.05.02-17.41.28:380][874]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap389A04F2A406C87D925752F95F200B724.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap'
+[2018.05.02-17.41.28:384][874]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap
+[2018.05.02-17.41.28:607][874]LogSavePackage: Save=114.64ms
+[2018.05.02-17.41.28:607][874]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap3_BuiltData23FDE75649C59FB3E9E4F8BE69F0C1C4.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset'
+[2018.05.02-17.41.28:609][874]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset
+[2018.05.02-17.41.29:355][915]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.02-17.41.29:386][915]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3' with GeneratedClass '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3'
+[2018.05.02-17.41.29:386][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.02-17.41.29:386][915]PIE: New page: PIE session: GameMap3 (May 2, 2018, 9:41:29 AM)
+[2018.05.02-17.41.29:386][915]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_GameMap3
+[2018.05.02-17.41.29:393][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007183s)
+[2018.05.02-17.41.29:394][915]LogAIModule: Creating AISystem for world GameMap3
+[2018.05.02-17.41.29:394][915]LogPlayLevel: PIE: World Init took: (0.000684s)
+[2018.05.02-17.41.29:394][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/GameMap3.GameMap3 to /Game/VirtualRealityBP/Maps/UEDPIE_0_GameMap3.GameMap3 (0.008107s)
+[2018.05.02-17.41.29:410][915]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.02-17.41.29:422][915]LogInit: FAudioDevice initialized.
+[2018.05.02-17.41.29:456][915]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.05.02-17.41.29:456][915]LogLoad: Game class is 'GameModeBase'
+[2018.05.02-17.41.29:459][915]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_GameMap3.GameMap3 up for play (max tick rate 60) at 2018.05.02-13.41.29
+[2018.05.02-17.41.29:459][915]LogWorld: Bringing up level for play took: 0.002300
+[2018.05.02-17.41.29:462][915]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_GameMap3 -0.642
+[2018.05.02-17.41.29:462][915]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3' with GeneratedClass '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3'
+[2018.05.02-17.41.40:537][553]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3' with GeneratedClass '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3'
+[2018.05.02-17.41.40:583][553]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3' with GeneratedClass '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/GameMap3.GameMap3:PersistentLevel.GameMap3'
+[2018.05.02-17.41.42:311][617]LogSavePackage: Save=354.13ms
+[2018.05.02-17.41.42:311][617]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap35A8688184C57EEEADAC0F0AED97A985D.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap'
+[2018.05.02-17.41.42:316][617]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap
+[2018.05.02-17.41.42:490][617]LogSavePackage: Save=104.40ms
+[2018.05.02-17.41.42:490][617]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap3_BuiltDataD0E838504B25078546AC7484E0F099D3.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset'
+[2018.05.02-17.41.42:492][617]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset
+[2018.05.02-17.41.45:670][769]LogSavePackage: Save=316.12ms
+[2018.05.02-17.41.45:670][769]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap3DEE07F8E4A3361374209ED9A36A90395.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap'
+[2018.05.02-17.41.45:675][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3.umap
+[2018.05.02-17.41.45:891][769]LogSavePackage: Save=96.90ms
+[2018.05.02-17.41.45:891][769]LogSavePackage: Moving '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/GameMap3_BuiltData2DB3741447CD1E7338CF19B4707E7656.tmp' to '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset'
+[2018.05.02-17.41.45:892][769]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/VirtualRealityBP/Maps/GameMap3_BuiltData.uasset
+[2018.05.02-17.41.46:834][815]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.02-17.41.47:078][816]Cmd: QUIT_EDITOR
+[2018.05.02-17.41.48:105][816]LogExit: Preparing to exit.
+[2018.05.02-17.41.49:075][816]LogDirectoryWatcher: A directory notification for 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/' was aborted.
+[2018.05.02-17.41.49:176][816]LogExit: Editor shut down
+[2018.05.02-17.41.49:188][816]LogExit: Transaction tracking system shut down
+[2018.05.02-17.41.49:441][816]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.02-17.41.49:441][816]LogDirectoryWatcher: A directory notification for '../../../../../../Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/' was aborted.
+[2018.05.02-17.41.49:442][816]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.02-17.41.49:442][816]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.02-17.41.49:442][816]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.02-17.41.49:442][816]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.02-17.41.49:442][816]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.02-17.41.49:648][816]LogExit: Object subsystem successfully closed.
+[2018.05.02-17.41.49:680][816]LogD3D11RHI: Shutdown
+[2018.05.02-17.41.49:680][816]LogD3D11RHI: CleanupD3DDevice
+[2018.05.02-17.41.49:686][816]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.02-17.41.49:737][816]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.05.02-17.41.49:737][816]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (552)
+[2018.05.02-17.41.49:737][816]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.05.02-17.41.49:737][816]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.05.02-17.41.49:737][816]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.05.02-17.41.49:737][816]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.05.02-17.41.49:738][816]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.05.02-17.41.49:739][816]LogDirectoryWatcher: A directory notification for 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/Collections/' was aborted.
+[2018.05.02-17.41.49:739][816]LogDirectoryWatcher: A directory notification for 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Content/Developers/rudra/Collections/' was aborted.
+[2018.05.02-17.41.49:739][816]LogDirectoryWatcher: A directory notification for 'C:/Users/rudra/Documents/UPenn Documents/Spring 2018 Class Docs/CIS 568 Game Design Practicum/Game2/MiniBowlingVR/MiniBowling/Saved/Collections/' was aborted.
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.05.02-17.41.49:739][816]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.05.02-17.41.49:740][816]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.05.02-17.41.50:682][816]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.05.02-17.41.50:682][816]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.05.02-17.41.50:682][816]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.05.02-17.41.50:682][816]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.05.02-17.41.50:682][816]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.05.02-17.41.50:682][816]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.05.02-17.41.50:682][816]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.05.02-17.41.50:683][816]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.05.02-17.41.50:683][816]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.05.02-17.41.50:683][816]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.05.02-17.41.50:683][816]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.05.02-17.41.50:683][816]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.05.02-17.41.50:683][816]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.05.02-17.41.50:683][816]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.05.02-17.41.50:683][816]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.05.02-17.41.50:683][816]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.05.02-17.41.50:683][816]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.05.02-17.41.50:684][816]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.05.02-17.41.50:684][816]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.05.02-17.41.50:684][816]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.05.02-17.41.50:684][816]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.05.02-17.41.50:684][816]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.05.02-17.41.50:684][816]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.05.02-17.41.50:684][816]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.05.02-17.41.50:749][816]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.05.02-17.41.50:749][816]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.05.02-17.41.50:749][816]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.05.02-17.41.50:749][816]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.05.02-17.41.50:749][816]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.05.02-17.41.50:749][816]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.05.02-17.41.50:749][816]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.05.02-17.41.50:749][816]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.05.02-17.41.50:749][816]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.05.02-17.41.50:749][816]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.05.02-17.41.50:773][816]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.05.02-17.41.50:774][816]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.05.02-17.41.50:774][816]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.05.02-17.41.50:774][816]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.05.02-17.41.50:774][816]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.05.02-17.41.50:774][816]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.05.02-17.41.50:774][816]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.05.02-17.41.50:774][816]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.05.02-17.41.50:774][816]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.05.02-17.41.50:775][816]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.05.02-17.41.50:775][816]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.05.02-17.41.50:775][816]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.05.02-17.41.50:775][816]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.05.02-17.41.50:775][816]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.05.02-17.41.50:775][816]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.05.02-17.41.50:775][816]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.05.02-17.41.50:775][816]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.05.02-17.41.50:775][816]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.05.02-17.41.50:775][816]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.05.02-17.41.50:775][816]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.05.02-17.41.50:956][816]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.05.02-17.41.50:956][816]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.05.02-17.41.50:956][816]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.05.02-17.41.50:956][816]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.05.02-17.41.50:956][816]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.05.02-17.41.50:956][816]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.05.02-17.41.50:956][816]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.05.02-17.41.50:956][816]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.05.02-17.41.50:957][816]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.05.02-17.41.50:957][816]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.05.02-17.41.50:957][816]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.05.02-17.41.50:957][816]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.05.02-17.41.50:957][816]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.05.02-17.41.50:957][816]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.05.02-17.41.50:957][816]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.05.02-17.41.50:957][816]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.05.02-17.41.50:957][816]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.05.02-17.41.50:958][816]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.05.02-17.41.50:958][816]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.05.02-17.41.50:958][816]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.05.02-17.41.50:958][816]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.05.02-17.41.50:958][816]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.05.02-17.41.50:958][816]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.05.02-17.41.50:958][816]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.05.02-17.41.50:958][816]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.05.02-17.41.50:958][816]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.05.02-17.41.50:958][816]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.05.02-17.41.50:958][816]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.05.02-17.41.50:958][816]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.05.02-17.41.50:958][816]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.05.02-17.41.50:958][816]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.05.02-17.41.50:959][816]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.05.02-17.41.50:959][816]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.05.02-17.41.50:959][816]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.05.02-17.41.50:959][816]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.05.02-17.41.50:961][816]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.05.02-17.41.50:961][816]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.05.02-17.41.50:961][816]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.05.02-17.41.50:963][816]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.05.02-17.41.50:963][816]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.05.02-17.41.50:963][816]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.05.02-17.41.50:963][816]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.05.02-17.41.50:963][816]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.05.02-17.41.50:963][816]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.05.02-17.41.50:963][816]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.05.02-17.41.50:963][816]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.05.02-17.41.51:064][816]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.05.02-17.41.51:165][816]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.05.02-17.41.51:165][816]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.05.02-17.41.51:165][816]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.05.02-17.41.51:165][816]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.05.02-17.41.51:165][816]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.05.02-17.41.51:165][816]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.05.02-17.41.51:167][816]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.05.02-17.41.51:167][816]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.05.02-17.41.51:167][816]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.05.02-17.41.51:167][816]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.05.02-17.41.51:171][816]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.05.02-17.41.51:171][816]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.05.02-17.41.51:171][816]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.05.02-17.41.51:171][816]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.05.02-17.41.51:171][816]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.05.02-17.41.51:171][816]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.05.02-17.41.51:177][816]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.05.02-17.41.51:177][816]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.05.02-17.41.51:177][816]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.05.02-17.41.51:177][816]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.05.02-17.41.51:177][816]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.05.02-17.41.51:177][816]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.05.02-17.41.51:177][816]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.05.02-17.41.51:177][816]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.05.02-17.41.51:177][816]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.05.02-17.41.51:177][816]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.05.02-17.41.51:177][816]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.05.02-17.41.51:178][816]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.05.02-17.41.51:178][816]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.05.02-17.41.51:178][816]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.05.02-17.41.51:178][816]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.05.02-17.41.51:178][816]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.05.02-17.41.51:183][816]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.05.02-17.41.51:183][816]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.05.02-17.41.51:183][816]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.05.02-17.41.51:183][816]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.05.02-17.41.51:183][816]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.05.02-17.41.51:183][816]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.05.02-17.41.51:183][816]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.05.02-17.41.51:183][816]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.05.02-17.41.51:185][816]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.05.02-17.41.51:185][816]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.05.02-17.41.51:185][816]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.05.02-17.41.51:185][816]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.05.02-17.41.51:185][816]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.05.02-17.41.51:185][816]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.05.02-17.41.51:185][816]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.05.02-17.41.51:185][816]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.05.02-17.41.51:185][816]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.05.02-17.41.51:268][816]LogDerivedDataCache: Shutdown
+[2018.05.02-17.41.51:268][816]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.05.02-17.41.51:268][816]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.05.02-17.41.51:268][816]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.05.02-17.41.51:268][816]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.05.02-17.41.51:268][816]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.05.02-17.41.51:268][816]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.05.02-17.41.51:268][816]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.05.02-17.41.51:268][816]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.05.02-17.41.51:268][816]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.05.02-17.41.51:268][816]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.05.02-17.41.51:269][816]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.05.02-17.41.51:269][816]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.05.02-17.41.51:269][816]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.05.02-17.41.51:269][816]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.05.02-17.41.51:269][816]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.05.02-17.41.51:269][816]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.05.02-17.41.51:269][816]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.05.02-17.41.51:269][816]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.05.02-17.41.51:269][816]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.05.02-17.41.51:269][816]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.05.02-17.41.51:269][816]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.05.02-17.41.51:269][816]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.05.02-17.41.51:269][816]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.05.02-17.41.51:270][816]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.05.02-17.41.51:270][816]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.05.02-17.41.51:270][816]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.05.02-17.41.51:270][816]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.05.02-17.41.51:270][816]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.05.02-17.41.51:270][816]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.05.02-17.41.51:270][816]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.05.02-17.41.51:270][816]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.05.02-17.41.51:270][816]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.05.02-17.41.51:270][816]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.05.02-17.41.51:270][816]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.05.02-17.41.51:270][816]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.05.02-17.41.51:270][816]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.05.02-17.41.51:270][816]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.05.02-17.41.51:271][816]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.05.02-17.41.51:271][816]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.05.02-17.41.51:271][816]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.05.02-17.41.51:271][816]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.05.02-17.41.51:271][816]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.05.02-17.41.51:271][816]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.05.02-17.41.51:271][816]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.05.02-17.41.51:271][816]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.05.02-17.41.51:271][816]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.05.02-17.41.51:271][816]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.05.02-17.41.51:271][816]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.05.02-17.41.51:271][816]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.02-17.41.51:271][816]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.02-17.41.51:271][816]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.02-17.41.51:272][816]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.02-17.41.51:272][816]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.02-17.41.51:272][816]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.02-17.41.51:272][816]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B47AB6C11-4BFE-CB93-B7FF-38A1EE3B345E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=f53795d748fab136336c728077b84937%7C89841296403e4bcab15f22abaa4805e2%7C21e2bc3e-fe4a-4705-b0a4-3e8c393e162c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.02-17.41.51:279][816]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.02-17.41.51:283][816]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.02-17.41.51:283][816]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.02-17.41.51:283][816]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.02-17.41.51:283][816]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.02-17.41.51:283][816]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.02-17.41.51:283][816]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.02-17.41.51:283][816]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.02-17.41.51:287][816]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.02-17.41.51:287][816]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.02-17.41.51:287][816]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.02-17.41.51:287][816]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.02-17.41.51:287][816]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.02-17.41.51:287][816]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.02-17.41.51:287][816]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.02-17.41.51:287][816]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.02-17.41.51:287][816]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.02-17.41.51:287][816]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.02-17.41.51:287][816]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.02-17.41.51:298][816]LogExit: Exiting.
+[2018.05.02-17.41.51:350][816]Log file closed, 05/02/18 13:41:51
